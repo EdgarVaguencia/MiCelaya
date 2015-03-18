@@ -1,0 +1,11 @@
+{
+  "name": "import",
+  "version": "0.0.1",
+  "description": "Obtención de documentos en formato PDF",
+  "main": "import.js",
+  "scripts": {
+    "test": "import.js"
+  },
+  "author": "Edgar Valencia <isc.edgarvalencia@gmail.com>",
+  "license": "MIT"
+}

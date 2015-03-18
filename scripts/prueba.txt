@@ -1,0 +1,5 @@
+Hola:
+
+Esta archivo es de prueba para guardar de manera local un un archivo ubicado en un path distinto.
+
+Si todo salebien este archivo debe de estar almacenado en la carpeta "files" de la ruta principal del proyecto
